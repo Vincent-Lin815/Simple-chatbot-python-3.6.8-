@@ -14,6 +14,7 @@ python server.py
 ```
 ### Open a client
 ```python
+# linux
 python client.py
 ```
 ```python 
