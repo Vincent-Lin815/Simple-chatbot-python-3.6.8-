@@ -10,7 +10,7 @@ python server.py
 ```
 ```python 
 # windows
-
+python server.py
 ```
 ### Open a client
 ```python
@@ -18,6 +18,6 @@ python client.py
 ```
 ```python 
 #windows
-
+python client.py
 ```
 * Enjoy your wonderful time of talking shit
